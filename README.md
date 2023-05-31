@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a full time Software Engineer for [Persado](https://www.persado.com/)
 
-- 🌱 I’m currently learning **Django and Elasticsearch**
+- 🌱 I’m currently learning **Kubernetes and Go**
 
 - 📫 How to reach me **sidirope@gmail.com**
 
