@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrum-citadel&label=Profile%20views&color=0e75b6&style=flat" alt="ferrum-citadel" /> </p>
 
-- 🔭 I’m currently working as a full time Software Engineer for [Persado](https://www.persado.com/)
-
-- 🌱 I’m currently learning **Kubernetes and Go**
+- 🔭 I’m currently working as a full time Software Engineer for [Workable](https://www.workable.com/)
 
 - 📫 How to reach me **sidirope@gmail.com**
 
