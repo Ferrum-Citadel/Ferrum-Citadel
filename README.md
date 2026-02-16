@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Petros</h1>
-<h3 align="center">A (perpetually hungry) Full Stack Developer from Greece</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrum-citadel&label=Profile%20views&color=0e75b6&style=flat" alt="ferrum-citadel" /> </p>
 
-- 🔭 I’m currently working as a full time Software Engineer for [Workable](https://www.workable.com/)
+- 🔭 I’m currently working as a Senior Software Engineer in Artificial Intelligence @[Workable](https://www.workable.com/)
 
 - 📫 How to reach me **sidirope@gmail.com**
 
